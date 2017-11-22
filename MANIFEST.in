@@ -1,1 +1,4 @@
-include README.rst LICENSE requirements.txt
+include AUTHORS
+include README.md
+include LICENSE
+include setup.py
